@@ -1,0 +1,24 @@
+_repo: Socialism-Exposed_62506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mather, Joseph
+    gutenberg_agent_id: '51972'
+    url: http://www.gutenberg.org/2009/agents/51972
+description: ''
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism -- Great Britain'
+- !lcsh 'Owen, Robert, 1771-1858. Book of the new moral world'
+- !lcsh 'Christian socialism'
+- GITenberg
+title: Socialism Exposed
+url: http://www.gutenberg.org/ebooks/62506
